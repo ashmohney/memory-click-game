@@ -1,0 +1,44 @@
+.navbar {
+  width: 100%;
+  color: #2A77AE;
+  /* margin-bottom: 5px;
+  padding-bottom: 5px; */
+  border-bottom: 5px solid #fff;
+  
+}
+
+#headLine {
+  text-align: center;
+  font-weight: bold;
+  border-bottom: 2px solid #fff;
+  padding-bottom: 2%;
+  margin-bottom: 0;
+  font-size: 32px;
+
+}
+
+#statusLine{
+  text-align: center;
+  color: #961717;
+  font-weight: bold;
+}
+
+#scoreLine {
+  float: left;
+}
+
+#topScoreLine {
+  float: right;
+}
+
+.col-sm-12 {
+  font-size: 24px;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    text-align: center;
+    width: 100%;
+  }
+}

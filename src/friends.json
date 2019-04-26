@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Zoidberg",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/45/Dr._John_A._Zoidberg.png/revision/latest?cb=20101014052403",
+    "count": 0,
+    "location": "Decapod 10"
+  },
+  {
+    "id": 2,
+    "name": "Hubert J. Farnsworth",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/4e/Farnsworth.png/revision/latest?cb=20110710094500",
+    "count": 0,
+    "location": "Earth"
+  },
+  {
+    "id": 3,
+    "name": "Nibbler",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/2/26/Lord_Nibbler.png/revision/latest?cb=20101013083936",
+    "count": 0,
+    "location": "Eternium, Vergon 6"
+  },
+  {
+    "id": 4,
+    "name": "Philip J. Fry I",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/f/f2/PhilipJ.Fry.png/revision/latest?cb=20110916120042",
+    "count": 0,
+    "location": "Earth (2000)"
+  },
+  {
+    "id": 5,
+    "name": "Turanga Leela",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/d/d4/Turanga_Leela.png/revision/latest?cb=20150218013044",
+    "count": 0,
+    "location": "Unknown, Orphanarium"
+  },
+  {
+    "id": 6,
+    "name": "Bender Bending Rodriguez",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/43/Bender.png/revision/latest?cb=20150206072725",
+    "count": 0,
+    "location": "Earth"
+  },
+  {
+    "id": 7,
+    "name": "Hermes Conrad",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/0/0d/Hermes.png/revision/latest?cb=20170719011119",
+    "count": 0,
+    "location": "Earth"
+  },
+  {
+    "id": 8,
+    "name": "Amy Wong", 
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/6/60/Amy.jpg/revision/latest?cb=20101109231445",
+    "count": 0,
+    "location": "Mars"
+  },
+  {
+    "id": 9,
+    "name": "Zapp Brannigan",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/e/e9/Zapp_Brannigan.png/revision/latest?cb=20101013084300",
+    "count": 0,
+    "location": "Earth"
+  },
+  {
+    "id": 10,
+    "name": "Kif Kroker",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/8/82/Lieutenant_Kif_Kroker.png/revision/latest?cb=20101013084718",
+    "count": 0,
+    "location": "Amphibios 9"
+  },
+  {
+    "id": 11,
+    "name": "Lrrr",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/c/c5/Lurr.png/revision/latest?cb=20130329124434",
+    "count": 0,
+    "location": "Omicron Persei 8"
+  },
+  {
+    "id": 12,
+    "name": "Mom",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/d/d9/Mom.png/revision/latest?cb=20170123190703",
+    "count": 0,
+    "location": "Earth"
+  }
+]
