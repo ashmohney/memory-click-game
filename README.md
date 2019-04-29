@@ -5,4 +5,4 @@ Memory game built with React.
 
 Click on each character once to win the game. But don't click on a character twice, or it's game over for you!
 
-Check it out <a href="" target="blank">here.</a>
+Check it out <a href="https://morning-escarpment-26515.herokuapp.com/" target="blank">here.</a>
